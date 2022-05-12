@@ -1,0 +1,32 @@
+body{
+	background-image: url(imagens/Image/backgorund.png);
+	background-repeat: no-repeat;
+}
+
+h1{
+	font-size: 1cm;
+	padding-left: 1cm;
+	padding-top: 0.3cm;
+	font-family: 'Minha fonte';
+	letter-spacing: 1.5px;
+}
+
+img{
+	padding-left: 25px;
+	margin-bottom: 10px;
+	width: 1.3cm;
+}
+
+
+a{
+	font-size: 0.7cm;
+	color: blueviolet;
+	text-decoration: none;
+}
+a:visited{
+	color: crimson;
+}
+
+a:hover{
+	color: green;
+}
